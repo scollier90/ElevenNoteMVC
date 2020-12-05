@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\Red Badge\MVC Projects\Eleven Note\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Red Badge\MVC Projects\Eleven Note\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CoreCompileInputs.cache
