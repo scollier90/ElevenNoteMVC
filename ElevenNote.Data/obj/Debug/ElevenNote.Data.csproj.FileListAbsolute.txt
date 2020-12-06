@@ -17,3 +17,4 @@ C:\ElevenFiftyProjects\Red Badge\MVC Projects\Eleven Note\ElevenNote.WebMVC\Elev
 C:\ElevenFiftyProjects\Red Badge\MVC Projects\Eleven Note\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
 C:\ElevenFiftyProjects\Red Badge\MVC Projects\Eleven Note\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
 C:\ElevenFiftyProjects\Red Badge\MVC Projects\Eleven Note\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialMigration.resources
+C:\ElevenFiftyProjects\Red Badge\MVC Projects\Eleven Note\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddedIsStarred.resources
